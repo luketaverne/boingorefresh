@@ -5,7 +5,9 @@ Made for Macs, only tested on OSX Mavericks and Yosemite.
 USAGE
 
 1) Make this script executable.
+
 `cd /path/to/this/boingorefresh`
+
 `sudo chmod +x boingorefresh.sh`
 
 2) Run it when you're out of free wifi.
